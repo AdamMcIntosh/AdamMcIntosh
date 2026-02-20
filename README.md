@@ -1,9 +1,8 @@
 # Hi, I am Adam 👋
 
-I am software developer who enjoys buuilding apps and working on puzzles 
+I am software developer who enjoys building apps and working on puzzles 
 
-
-A few things that I do:
+A few things that I have done:
 
 - ⭐ Built the [Hall of Taps](https://adammcintosh.github.io/The-Hall-of-Taps/).
 - 🛠️ Built an [MCP server for Cursor](https://github.com/AdamMcIntosh/roland).
