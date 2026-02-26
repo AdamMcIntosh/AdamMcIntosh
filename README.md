@@ -4,7 +4,7 @@
 
 A few things that I have done:
 
-- 🦉 **Perchwatch** (private/beta): On-call management SaaS for DevOps/SRE teams – smart scheduling, incident response, multi-cloud monitoring, integrations. Built with C# backend, Angular frontend, React components via vibe coding (Claude/Cursor). Live at [useperchwatch.com](useperchwatch.com) (beta access available).
+- * 🚀 Building **Perchwatch** (private/beta): Full-stack SaaS for on-call management – intelligent scheduling, real-time monitoring, incident response for DevOps/SRE teams. C#/.NET backend, Angular frontend, React via AI-assisted (vibe coding) workflows. Live beta at [useperchwatch.com](https://useperchwatch.com). Early access available!
 - ⭐ Built the [Hall of Taps](https://adammcintosh.github.io/The-Hall-of-Taps/).
 - 🛠️ Built an [MCP server for Cursor](https://github.com/AdamMcIntosh/roland).
 - 🌹⚡ Built [Daily Dead Dose](https://github.com/AdamMcIntosh/DeadDailyDose) A Windows desktop app for your daily dose of Grateful Dead–era live music. Pick an artist, get a show of the day from the Internet Archive, view the setlist (when configured), and play the show’s tracks. You can find a web version [here](https://adammcintosh.github.io/DeadDailyDose/)
